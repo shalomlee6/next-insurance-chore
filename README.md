@@ -34,9 +34,13 @@ You can use any resource you like, and ask us questions during the session.
 #      this.editItem(target);
 #    });
 #
+
 9.  Load and display tasks from https://jsonplaceholder.typicode.com/todos when application loads (20pt)
+# did not had time to write a fetch request
 
 10. Prevent adding task that contain `< >` in the title. (replace with blank), For example: 'Learn < JS >' should become 'Learn JS' (10pt) 
+# did not had time
 11. Handle the error in the console (15pt)
+# did not had time to write a fetch request
 
 Good luck! 
